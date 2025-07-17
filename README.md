@@ -13,7 +13,8 @@ Bookworm a simple book reading app.
 <img src="https://github.com/user-attachments/assets/84ad59b3-6dc5-48f7-8b4c-5bcc2f722a00" alt="Alt Text" width="400">
 <img src="https://github.com/user-attachments/assets/b186b642-27a2-40d2-8e21-54c48cad3fb0" alt="Alt Text" width="400">
 <img src="https://github.com/user-attachments/assets/ef8ccf75-5440-4346-afdd-dc746cca78ba" alt="Alt Text" width="400">
-<img src="https://github.com/user-attachments/assets/0eee3d8f-6fa3-47a0-8bbd-fec8690e219a" alt="Alt Text" width="400">
+<img src="https://github.com/user-attachments/assets/0eee3d8f-6fa3-47a0-8bbd-fec8690e219a" alt="Alt Text" width="400"><img width="26" height="26" alt="google" src="https://github.com/user-attachments/assets/14688f57-cd7e-4b47-9b73-852518e382cf" />
+
 
 
 
